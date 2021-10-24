@@ -1,4 +1,3 @@
-# Hello world, I'm Suharjin 
 <div align="center">
 <h3>Hello world 👋,</h3>
 <p>I'm Suharjin</p>
